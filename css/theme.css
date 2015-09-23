@@ -13247,6 +13247,8 @@ aside {
 }
 .absposition {
   position:absolute;
+  float:right;
+  right:0;
 }
 
 /* line 34, ../sass/theme/gui/_sidebar.scss */
